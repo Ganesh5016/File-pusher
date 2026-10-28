@@ -1,0 +1,14 @@
+node_modules
+frontend/node_modules
+frontend/dist
+__pycache__
+*.pyc
+.git
+.gitignore
+backend/data/*.db
+backend/data/*.db-journal
+backend/data/documents/*
+backend/data/temp_uploads/*
+.agent
+.agents
+.gemini
